@@ -1,0 +1,32 @@
+h1{
+	color: red;
+}
+
+.new{
+	background: blue;
+	width: 100px;
+	color: #fff;
+	margin-bottom: 100px;
+}
+
+.letter{
+	color: red;
+}
+
+h2{
+	background: green;
+	color: #fff;
+}
+
+.title{
+	padding: 50px;
+}
+
+.text{
+	padding-left: 100px;
+}
+
+li{
+	border: 1px solid black;
+	font-size: 30px;
+}
